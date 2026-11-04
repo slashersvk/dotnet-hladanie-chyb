@@ -15,7 +15,7 @@
 //  a 4 logické chyby (program beží, ale počíta zle alebo spadne).
 //  Nájdi a oprav všetky chyby. Zadané známky nemeň.
 //
-//  Spustenie:  dotnet run 01-priemer-znamok.cs
+//  Spustenie:  F5 vo Visual Studiu alebo „dotnet run“ v priečinku 01-PriemerZnamok
 //
 //  Očakávaný výstup po oprave:
 //    Známky: 1, 3, 2, 5, 1, 4, 2

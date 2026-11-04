@@ -16,7 +16,7 @@
 //  a 4 logické chyby (program beží, ale počíta zle).
 //  Nájdi a oprav všetky chyby. Zadané texty nemeň.
 //
-//  Spustenie:  dotnet run 03-analyza-textu.cs
+//  Spustenie:  F5 vo Visual Studiu alebo „dotnet run“ v priečinku 03-AnalyzaTextu
 //
 //  Očakávaný výstup po oprave:
 //    Veta: Programovanie v jazyku C# je zábava

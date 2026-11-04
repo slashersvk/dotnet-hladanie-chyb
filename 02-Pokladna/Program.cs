@@ -14,7 +14,7 @@
 //  a 4 logické chyby (program beží, ale počíta zle).
 //  Nájdi a oprav všetky chyby. Zadané položky nemeň.
 //
-//  Spustenie:  dotnet run 02-pokladna.cs
+//  Spustenie:  F5 vo Visual Studiu alebo „dotnet run“ v priečinku 02-Pokladna
 //
 //  Očakávaný výstup po oprave:
 //    ============ ÚČTENKA ============
